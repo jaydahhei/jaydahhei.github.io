@@ -8,4 +8,5 @@ categories: jekyll update
 I am currently attending The Allied Genetics Conference 2024. Back in 2020, I was also prepared to attend TAGC as an undergraduate student and give a talk at a thematic session on dog SINEs. Unfortunately, due to COVID-19, the conference was switched to an online conference and I missed out on meeting people in person. 
 This year I am excited to attend all of the talks and to present my research on "Homeostatic behavior quantification of mice in a social context using machine vision" through a poster. I am looking forward to getting feedback on my projects and attending lots of interesting talks!
 
-![tagc pics](/assets/images/tagc1.jpg)
+![tagc pic1](/assets/images/tagc1.jpg)
+![tagc pic2](/assets/images/tagc2.jpg)
