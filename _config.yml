@@ -21,9 +21,7 @@
 title: Jaycee Choi
 email: jaycee.choi@jax.org
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Jaycee Choi, a graduate student at The Jackson Laboratory in conjunction
-  with Tufts University. I am interested in machine learning, specifically
-  computer vision, mouse behavior, and genetics.
+  I'm Jaycee Choi, a graduate student at The Jackson Laboratory in conjunction with Tufts University. I am interested in machine learning, specifically computer vision, mouse behavior, and genetics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChoiJaycee
