@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Jaycee at The Allied Genetics Conference"
+date:   2024-07-18 14:35:00 -0400
+categories: publications
+---
+
+Test
