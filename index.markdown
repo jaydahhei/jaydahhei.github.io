@@ -11,6 +11,3 @@ layout: home
   }
 </style>
 
-<div class="corner-image">
-    <img src="/assets/images/Jaycee-Choi-Headshot-11.jpg" alt="Picture of Jaycee">
-</div>
