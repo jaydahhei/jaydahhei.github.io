@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a Ph.D. candidate in Mammalian Genetics in the collaborative Tufts University / Jackson Laboratory program, focusing on computational approaches to understanding behavior and cognitive decline. In the Kumar laboratory, our focus is on using machine learning and computer vision to study mouse behavior. I analyze video data from mice in long-term assays, leveraging high-performance computing to develop data analysis pipelines for health research. My overarching research aim is to leverage the increased availability of high-throughput computational and data science tools to analyze large datasets, and applying these tools to understudied models, particularly focusing on female mice and cognitive decline. Long term, I would like to contribute to the field and achieve impactful outcomes in women’s health research, recognizing the disproportionate impact of dementia on women.
